@@ -1,5 +1,5 @@
 {
-  "name": "@holiday_peng/form-items",
+  "name": "@holiday_peng/configurable-antd-form-items",
   "version": "1.0.0",
   "description": "An easier configurable antd form items includes Input, InputNumber, TextArea, Select, Radio, Checkbox, Upload, etc..",
   "author": "penglanlan",
@@ -9,7 +9,7 @@
   "jsnext:main": "./index.es.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RavenPeng/form-items.git"
+    "url": "git+https://github.com/RavenPeng/configurable-antd-form-items.git"
   },
   "engines": {
     "node": ">=8",

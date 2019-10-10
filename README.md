@@ -1,15 +1,15 @@
-# json-editor
+# Configurable Antd Form Items
 
-An easier configurable antd form items includes Input, InputNumber, TextArea, Select, Radio, Checkbox, Upload, etc..
+Configurable Antd Form Items is an easier configurable antd form items includes Input, InputNumber, TextArea, Select, Radio, Checkbox, Upload, etc..
 
 # How to Use
 
-0. `npm install @holiday_peng/form-items`
+0. `npm install @holiday_peng/configurable-antd-form-items`
 
 1. because the editor was built based on react and antd, it has to be used in a react project like this: 
 ````
 import React from 'react';
-import FormItems from '@holiday_peng/form-items';
+import FormItems from '@holiday_peng/configurable-antd-form-items';
 
 class Example extends React.PureComponent {
   constructor() {
